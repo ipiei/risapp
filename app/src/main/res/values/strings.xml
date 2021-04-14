@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ris CrossFit</string>
+    <string name="loginhere">Vous avez déjà un compte ? <u>S\'identifier</u></string>
+    <string name="signuphere">Vous n\'avez pas encore de compte ? <u>Créez-en un !</u></string>
+    <string name="signup">S\'inscrire</string>
+    <string name="login">Se connecter</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="email">Mail</string>
+    <string name="password">Mot de passe</string>
+</resources>
